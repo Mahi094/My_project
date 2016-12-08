@@ -1,0 +1,200 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+body
+{background-color: #dfe3ee;
+  color: grey;
+  width: 40%;
+
+  overflow: hidden;
+}
+
+
+
+#block
+{
+ text-align: center;
+
+  color: white;
+  background-color: #3b5998;
+  padding: 2%;
+  margin: 0;
+  position:30px;
+
+
+  transform: translateX(-40%);
+  width:415%;
+}
+
+#abc
+{
+  color: black;
+
+  transform: translateX(30%);
+
+}
+
+
+#right
+{
+
+  color: black;
+  top:10%;
+  transform: translateX(145%);
+
+}
+input{
+  padding: 8px;
+  display: inline;
+}
+
+
+#name
+{
+  text-align: left;
+display:inline-block;
+  padding:10px;
+  margin: auto;
+  position: absolute;
+
+  top:25%;
+  transform: translateX(490%);
+  width: 10%;
+}
+
+#name1
+{
+  text-align: left;
+  display:inline-block;
+  padding:10px;
+  margin: auto;
+  position: absolute;
+
+  top:25%;
+  transform: translateX(490%);
+width: 10%;
+}
+ #bday
+ {   position: absolute;
+    color: black;
+   top:60%;
+   transform: translateX(1290%);
+
+ }
+
+ #date
+ {
+   position: absolute;
+   top:66%;
+   transform: translateX(420%);
+ }
+
+
+
+#right1
+{
+ position: absolute;
+  color: blue;
+  top:66%;
+  transform: translateX(430%);
+}
+
+
+#login
+{ display: inline;
+  position: absolute;
+  top:2%;
+  color:white;
+  transform: translateX(760%);
+}
+
+input{
+padding:0px;
+}
+
+#spaces
+{
+
+  position: absolute;
+  padding: 2%;
+  top:0%;
+  color: white;
+  transform: translateX(1500%);
+  width:0%;
+}
+
+
+#login1
+{
+  position: absolute;
+  top:2%;
+
+  color:white;
+  transform: translateX(1610%);
+}
+
+
+#line
+{
+  position: absolute;
+  color:black;
+  top:77%;
+  transform: translateX(177%);
+}
+
+input
+{
+padding: 5%;
+}
+
+
+#account
+{ text-align: left;
+  background-color: green;
+  color:black;
+  padding: 1;
+  margin: auto;
+  display: inline-block;
+  position: absolute;
+
+  top:88%;
+  transform: translateX(440%);
+  width: 13%;
+
+
+
+
+
+
+}
+
+
+#lastline
+{
+  position: absolute;
+  color: inherit;
+  top:94%;
+  transform: translateX(275%);
+}
+
+.inline
+{
+  display: inline;
+
+}
+
+#spaces{
+  float:right;
+  color: white;
+ margin-top: 15px;
+}
+
+
+#spaces1{
+  float: right;
+  color: white;
+top: 15%;
+}
