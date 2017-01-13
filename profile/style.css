@@ -30,12 +30,12 @@ margin-left:15%;
 .img_circle
 {
     border-radius: 50%;
-    float: right;
+    margin: auto;
 }
 
 .position
 {
-    float: right;
+    text-align: center;
 }
 
 
@@ -63,20 +63,16 @@ margin-top: 40%;
     opacity:50%;
 }
 
-.new_buttn1
+.new_buttn
 { 
-   margin-left: 30%; 
-    margin-top:75%;
   background-color: rgba(0,0,0,0.5);
   padding:10px;
-  border:2px solid #E74C3C;
   color:white;
-  width:100px;
   cursor:pointer;
   text-align:center;
 }
 
-.new_buttn1:hover
+.new_buttn:hover
 {
   background-color:#E74C3C;
   
